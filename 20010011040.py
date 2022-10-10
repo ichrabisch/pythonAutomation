@@ -1,5 +1,4 @@
 """
-20010011040/ Rabia Azdir
 MUZIK KURSU OTOMASYONU
 
 """
